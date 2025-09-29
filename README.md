@@ -148,11 +148,6 @@ deteksyon-nemoni-ai/
 - Risk overfitting sou done validasyon
 - EfficientNetB0 pa travay jan nou te espere
 
-### Limit Praktik
-- Bezwen entènèt pou aksè sistèm nan
-- Kalite imaj yo enpòtan pou bon rezilta
-- Bezwen fòmasyon pou pèsonèl yo
-
 ---
 
 ## 🚀 Pwochen Etap yo
